@@ -27,13 +27,23 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 
 ---
 
-### Definição de EC2
+## Definição de EC2
 
 Elastic Compute Cloud são máquinas virtuais, pendo ter como sistema operacional o Windows ou o Linux
 
 - Com ela pode ser definido segurança básica ultilizando firewall incorporada ao AWS, utilizar grupo de segurança, protocolo, porta, IPs de origem, permite e nega o acesso às suas instâncias EC2;
 
+- Quando criamos um EC2 estamos utilizando o tipo **Infraestrutura como Serviço**, nesse caso, sendo um IAAS (Infraestructure as a service)
+|
+└─ Nossa responsabilidade seria a dos aplicativos, dados e conexões que fazemos.
+
 A EC2 é composta por:
-- CPU       - Rede
-- Memória   - Sistema operacional
+- CPU
+- Rede
+- Memória
 - Disco
+- Sistema operacional
+
+## Tipos de instância e algumas formas de uso
+
+images\propósito-instâncias-ec2.png
