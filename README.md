@@ -45,4 +45,4 @@ A EC2 é composta por:
 
 ## Tipos de instância e algumas formas de uso
 
-![Logo do meu projeto](família-instância-ec2.png)
+![Logo do meu projeto](./images/família-instância-ec2.png)
