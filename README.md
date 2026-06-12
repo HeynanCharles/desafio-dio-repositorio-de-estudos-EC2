@@ -11,14 +11,14 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 - Definição de EC2 
 - Tipos de instância e algumas formas de uso
 - Cálculo de custos
- - AWS Pricing Calculator
- - Convencion name
- - Opções de pagamento
+  - AWS Pricing Calculator
+  - Convencion name
+  - Opções de pagamento
 - Otimização de recursos
 - Escalação de recursos
 - Armazenamento em núvem
- - EBS
- - S3
+  - EBS
+  - S3
 - Tipos de classe de armazenamento
 - Frequência de acesso
 - AMI
