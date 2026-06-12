@@ -1,4 +1,4 @@
-# Desafio DIO - Gerenciamento de instâncias EC2 na AWS
+# ☁️ Desafio DIO - Gerenciamento de instâncias EC2 na AWS
 
 Esté é um repositório criado para documentação de aprendizados e para futuras consultas em caso de uso em projetos.
 
@@ -22,5 +22,18 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 - Tipos de classe de armazenamento
 - Frequência de acesso
 - AMI
-- Snapshot
+- Snapshot EBS
 - Comparação AMI e Snapshot
+
+---
+
+### Definição de EC2
+
+Elastic Compute Cloud são máquinas virtuais, pendo ter como sistema operacional o Windows ou o Linux
+
+- Com ela pode ser definido segurança básica ultilizando firewall incorporada ao AWS, utilizar grupo de segurança, protocolo, porta, IPs de origem, permite e nega o acesso às suas instâncias EC2;
+
+A EC2 é composta por:
+- CPU       - Rede
+- Memória   - Sistema operacional
+- Disco
