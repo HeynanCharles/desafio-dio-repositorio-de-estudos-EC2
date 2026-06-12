@@ -48,7 +48,7 @@ A EC2 é composta por:
 ## Tipos de instância
 
 
-<img src="./images/família-instância-ec2.png" alt="Famílias de instâncias EC2" width="600px">
+<img src="./images/família-instância-ec2.png" alt="Famílias de instâncias EC2" width="650px">
 
 - A T2 é uma das mais ultilizadas, por ser ideal para servidores e banco de dados pequenos
 
@@ -66,7 +66,7 @@ Com o AWS Pricing Calculator, você pode calcular o valor de uma instância, per
 
 O Convencion name é a descrição da máquina, como se fosse uma sigla, mas que descreve exatamente que máquina é aquela e um resumo de sua potência.
 
-<img src="./images/convencion-name.png" alt="Tela inicial do AWS Pricing Calculator" width="400px">
+<img src="./images/convencion-name.png" alt="Tela inicial do AWS Pricing Calculator" width="350px">
 
 ### Opções de pagamento
 
