@@ -46,4 +46,4 @@ A EC2 é composta por:
 
 ## Tipos de instância e algumas formas de uso
 
-images\propósito-instâncias-ec2.png
+(./images/propósito-instâncias-ec2.png)
