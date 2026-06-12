@@ -34,8 +34,7 @@ Elastic Compute Cloud são máquinas virtuais, pendo ter como sistema operaciona
 - Com ela pode ser definido segurança básica ultilizando firewall incorporada ao AWS, utilizar grupo de segurança, protocolo, porta, IPs de origem, permite e nega o acesso às suas instâncias EC2;
 
 - Quando criamos um EC2 estamos utilizando o tipo **Infraestrutura como Serviço**, nesse caso, sendo um IAAS (Infraestructure as a service)
-|
-└─ Nossa responsabilidade seria a dos aplicativos, dados e conexões que fazemos.
+  - Nossa responsabilidade seria a dos aplicativos, dados e conexões que fazemos.
 
 A EC2 é composta por:
 - CPU
@@ -46,4 +45,4 @@ A EC2 é composta por:
 
 ## Tipos de instância e algumas formas de uso
 
-!(images/família-instância-ec2.png)
+![Logo do meu projeto](família-instância-ec2.png)
