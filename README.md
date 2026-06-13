@@ -50,7 +50,9 @@ A EC2 é composta por:
 
 <img src="./images/família-instância-ec2.png" alt="Famílias de instâncias EC2" width="650px">
 
-- <span style="font-size: 1.5em;">A T2 é uma das mais utilizadas, por ser ideal para servidores e banco de dados pequenos</span>
+- <span style="font-size: 21px;">A T2 é uma das mais utilizadas, por ser ideal para servidores e banco de dados pequenos</span>
+
+---
 
 ## Cálculo de custos
 
@@ -60,7 +62,7 @@ A EC2 é composta por:
 
 Com o AWS Pricing Calculator, você pode calcular o valor de uma instância, personalizando **máquina**(vCPUs, RAM, GB), **instâncias de cidades**, **instâncias compartilhadas**, **hosts dedicados** e até **carga de trabalho** da instância.
 
-- Pode ser feito reservas de instância, compra de instância sob demanda, [entre outros]()
+- Pode ser feito reservas de instância, compra de instância sob demanda, [entre outros](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#opções-de-pagamento)
 
 ### Convention name
 
@@ -114,7 +116,7 @@ o Amazon EBS é um storage altamente confiável  que pode ser anexado em qualque
 
 <img src="./images/demonstração-partição-ec2.png" alt="Demonstração de partição de EC2" width="650px">
 
-#### **Exemplos de uso**
+#### **Exemplos de uso:**
 
 - Armazenamento para bando de dados, como MySQL, PostgreSQL e Oracle
 
@@ -148,7 +150,7 @@ Junto à isso, temos uma linha que mostra a frequência de acesso das classes mo
 ---
 
 ## AMI
-
+<!-- (imagem "AMI") -->
 ---
 
 ## Snapshot EBS
