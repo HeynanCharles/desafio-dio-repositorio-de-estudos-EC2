@@ -21,6 +21,7 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
   - S3
 - Tipos de classe de armazenamento
 - Frequência de acesso
+  - Lifecycle
 - AMI
 - Snapshot EBS
 - Comparação AMI e Snapshot
@@ -139,13 +140,19 @@ O S3 (Amazon Simple Storage Service) é um serviço de armazenamento voltado par
 ---
 
 ## Tipos de classe de armazenamento
-<!-- (imagem "types of storage classes") -->
+<img src="./images/types of storage classes.png" alt="Tipos classe de armazenamento" width="350px">
 
-### Frequência de acesso
+## Frequência de acesso
 
 Junto à isso, temos uma linha que mostra a frequência de acesso das classes mostradas acima:
 
-<!-- (imagem "access frequency") -->
+<img src="./images/acess-frequency.png" alt="Frequência de acesso" width="650px">
+
+### Lifecycle
+
+Existe também a regra do clico de vida, que é uma organização de gestão de objetos visando a economia de lucros, onde dados que vão ser acessados frequentemente à 90 dias, são armazenados em serviços específicos, já se forem acessados em intervalos maiores, vão para o Glacier.
+
+<img src="./images/lifecycle.png" alt="Clico de vida de objetos no serviço S3" width="650px">
 
 ---
 
