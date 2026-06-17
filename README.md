@@ -111,7 +111,7 @@ Basicamente, a **escalação vertical** é voltada para o aumento de processamen
 
 ## Armazenamento em nuvem
 
-### EBS
+### EBS - Elastic Block Store
 
 o Amazon EBS é um storage altamente confiável  que pode ser anexado em qualquer instância EC2, possibilitando capacidade de extensão de forma rápida. Nós conseguimos criar uma nova partição na EC2, sendo como anexar um HD Externo.
 
@@ -125,7 +125,7 @@ o Amazon EBS é um storage altamente confiável  que pode ser anexado em qualque
 
 <img src="./images/demonstração-uso-ebs-entre-regions.png" alt="Demonstração de uso de EBS entre regions" width="650px">
 
-### S3
+### S3 - Amazon Simple Storage Service
 
 O S3 (Amazon Simple Storage Service) é um serviço de armazenamento voltado para objetos, sendo ideal para armazenar, organizar e recuperar grandes volumes de dados de forma segura e escalável.
 
@@ -140,7 +140,7 @@ O S3 (Amazon Simple Storage Service) é um serviço de armazenamento voltado par
 ---
 
 ## Tipos de classe de armazenamento
-<img src="./images/types of storage classes.png" alt="Tipos de classe de armazenamento" width="500px">
+<img src="./images/types of storage classes.png" alt="Tipos de classe de armazenamento" width="600px">
 
 ---
 
@@ -158,13 +158,43 @@ Existe também a regra do clico de vida, que é uma organização de gestão de 
 
 ---
 
-## AMI
-<!-- (imagem "AMI") -->
+## AMI - Amazon Machine Image
+
+ É uma forma de duplicar uma EC2, sem ser do zero, sendo basicamente um copia e cola. Em oposto à própria EC2, não tem que ser feito nenhum processo para trabalhar com a AMI, você consegue criar com as instâncias em execução ou paradas, o que facilita e agiliza o gerenciamento e criação delas. Mais alguns pontos sobre a AMI:
+
+ - Você pode escolher entre usar uma AMI pública, disponibilizada pela AWS, ou pode optar por criar uma AMI privada, tendo a opção de personalizá-la do jeito que for necessário
+
+ - Como dito antes, com a AMI pode ser feita uma replicação de instâncias de forma rápida, é só criar uma EC2 e a partir dela criar a sua AMI;
+
+ - E por último, mas não menos importante, vale lembrar que possuem vários tipos de AMI, incluindo AWS, Linux, Windows e outros. É importante saber que a AMI deve ser idêntico ao sistema, ou seja, usar o mesmo sistema operacional.
+
+<img src="./images/ami.png" alt="Demonstração de funcionamento de uma AMI" width="650px">
 ---
 
 ## Snapshot EBS
 
+ Snapshot EBS é um serviço de backup nativo do AWS, que faz backup dos volumes EBS em um determinado momento, sendo possível configurar essa frequência em que os snapshots são tirados.
+
+### Informações sobre custos
+
+ - Possuem custos diferentes de acordo com a região
+   - Leste EUA - **US$0,05 por GB/mês**
+   - Região UE (Londres) - **US$0,053 por GB/mês**
+
 ---
 
 ## Comparação AMI e Snapshot
-<!-- (imagem "comparação AMI -- Snapshot") -->
+
+<img src="./images/comparacao-ami-snapshot.png" src="Comparação entre AMI e Snapshot" width="650px">
+
+---
+
+## Desenho de Arquitetura de software
+
+### EC2 com EBS
+
+<img src="./images/arquitetura-ec2-ebs.png" alt="Arquitetura de software de EC2 com EBS" width="600px">
+
+### S3 com Lambda
+
+<img src="./images/arquitetura-s3-lambda.png" alt="Arquitetura de software de S3 com Lambda" width="600px">
