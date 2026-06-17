@@ -140,7 +140,9 @@ O S3 (Amazon Simple Storage Service) é um serviço de armazenamento voltado par
 ---
 
 ## Tipos de classe de armazenamento
-<img src="./images/types of storage classes.png" alt="Tipos de classe de armazenamento" width="500px" center>
+<img src="./images/types of storage classes.png" alt="Tipos de classe de armazenamento" width="500px">
+
+---
 
 ## Frequência de acesso
 
