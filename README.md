@@ -23,7 +23,7 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 - 🔄 [Frequência de acesso](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-frequência-de-acesso)
   - Lifecycle
 - 💿 [AMI](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-ami---amazon-machine-image)
-- 💾 [Snapshot EBS](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#snapshot-ebs)
+- 💾 [Snapshot EBS](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-snapshot-ebs)
 - 🔎 [Comparação AMI e Snapshot](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#comparação-ami-e-snapshot)
 
 ---
