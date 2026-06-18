@@ -6,29 +6,29 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 
 ---
 
-## Tópicos a serem compartilhados:
+## 📋 Tópicos a serem compartilhados:
 
-- [Definição de EC2](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#definição-de-ec2)
-- Tipos de instância
-- Cálculo de custos
+- 🖥️[Definição de EC2](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#definição-de-ec2)
+- 📝 Tipos de instância
+- 💲 Cálculo de custos
   - AWS Pricing Calculator
   - Convention name
   - Opções de pagamento
-- Otimização de recursos
-- Escalação de recursos
-- Armazenamento em nuvem
+- ![alt text](image.png) Otimização de recursos
+- <img src="./escalação-recurso.png"> Escalação de recursos
+- ☁️ Armazenamento em nuvem
   - EBS
   - S3
-- Tipos de classe de armazenamento
-- Frequência de acesso
+- 📝 Tipos de classe de armazenamento
+- 🔄 Frequência de acesso
   - Lifecycle
-- AMI
-- Snapshot EBS
-- Comparação AMI e Snapshot
+- ![alt text](image-1.png) AMI
+- ![alt text](image-2.png) Snapshot EBS
+- ![alt text](image-3.png) Comparação AMI e Snapshot
 
 ---
 
-## Definição de EC2
+## 🖥️ Definição de EC2
 
 Elastic Compute Cloud são máquinas virtuais, pendo ter como sistema operacional o Windows ou o Linux
 
@@ -46,7 +46,7 @@ A EC2 é composta por:
 
 ---
 
-## Tipos de instância
+## 📝 Tipos de instância
 
 
 <img src="./images/família-instância-ec2.png" alt="Famílias de instâncias EC2" width="650px">
@@ -63,7 +63,7 @@ A EC2 é composta por:
 
 Com o AWS Pricing Calculator, você pode calcular o valor de uma instância, personalizando **máquina**(vCPUs, RAM, GB), **instâncias de cidades**, **instâncias compartilhadas**, **hosts dedicados** e até **carga de trabalho** da instância.
 
-- Pode ser feito reservas de instância, compra de instância sob demanda, [entre outros](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#opções-de-pagamento)
+- Pode ser feito reservas de instância, compra de instância sob demanda, entre outros.
 
 ### Convention name
 
@@ -140,7 +140,7 @@ O S3 (Amazon Simple Storage Service) é um serviço de armazenamento voltado par
 ---
 
 ## Tipos de classe de armazenamento
-<img src="./images/types of storage classes.png" alt="Tipos de classe de armazenamento" width="600px">
+<img src="./images/types of storage classes.png" alt="Tipos de classe de armazenamento" width="500px">
 
 ---
 
@@ -169,6 +169,7 @@ Existe também a regra do clico de vida, que é uma organização de gestão de 
  - E por último, mas não menos importante, vale lembrar que possuem vários tipos de AMI, incluindo AWS, Linux, Windows e outros. É importante saber que a AMI deve ser idêntico ao sistema, ou seja, usar o mesmo sistema operacional.
 
 <img src="./images/ami.png" alt="Demonstração de funcionamento de uma AMI" width="650px">
+
 ---
 
 ## Snapshot EBS
