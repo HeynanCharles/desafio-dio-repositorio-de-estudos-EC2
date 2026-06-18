@@ -15,7 +15,7 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
   - Convention name
   - Opções de pagamento
 - ![alt text](image.png) Otimização de recursos
-- <img src="./escalação-recurso.png"> Escalação de recursos
+- <img src="./escalação-recurso.png" width="50px" height="50px"> Escalação de recursos
 - ☁️ Armazenamento em nuvem
   - EBS
   - S3
