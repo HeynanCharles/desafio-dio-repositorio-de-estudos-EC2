@@ -9,22 +9,22 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 ## 📋 Tópicos a serem compartilhados:
 
 - 🖥️[Definição de EC2](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#definição-de-ec2)
-- 📝 Tipos de instância
-- 💲 Cálculo de custos
+- 📝 [Tipos de instância](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-tipos-de-instância)
+- 💲 [Cálculo de custos](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-cálculo-de-custos)
   - AWS Pricing Calculator
   - Convention name
   - Opções de pagamento
-- 📊 Otimização de recursos
-- <img src="./escalação-recurso.png" width="50px" height="50px"> Escalação de recursos
-- ☁️ Armazenamento em nuvem
+- 📊 [Otimização de recursos](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-otimização-de-recursos)
+- 📈 [Escalação de recursos](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#escalação-de-recursos)
+- ☁️ [Armazenamento em nuvem](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#%EF%B8%8F-armazenamento-em-nuvem)
   - EBS
   - S3
-- 📝 Tipos de classe de armazenamento
-- 🔄 Frequência de acesso
+- 📝 [Tipos de classe de armazenamento](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-tipos-de-classe-de-armazenamento)
+- 🔄 [Frequência de acesso](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-frequência-de-acesso)
   - Lifecycle
-- 💿 AMI
-- 💾 Snapshot EBS
-- 🔎 Comparação AMI e Snapshot
+- 💿 [AMI](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-ami---amazon-machine-image)
+- 💾 [Snapshot EBS](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#snapshot-ebs)
+- 🔎 [Comparação AMI e Snapshot](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#comparação-ami-e-snapshot)
 
 ---
 
@@ -93,7 +93,7 @@ Quando falamos de otimização de recurso, estamos nos referindo à custo, dimin
 
 ---
 
-## Escalação de recursos
+## 📈 Escalação de recursos
 
 É um processo executado em momento específicos para processamento de workload, podendo ser feito automaticamente ou de forma manual, de acordo com a necessidade. Há duas formas de escalação, sendo elas horizontal ou vertical:
 
@@ -172,7 +172,7 @@ Existe também a regra do clico de vida, que é uma organização de gestão de 
 
 ---
 
-## Snapshot EBS
+## 💾 Snapshot EBS
 
  Snapshot EBS é um serviço de backup nativo do AWS, que faz backup dos volumes EBS em um determinado momento, sendo possível configurar essa frequência em que os snapshots são tirados.
 
@@ -184,7 +184,7 @@ Existe também a regra do clico de vida, que é uma organização de gestão de 
 
 ---
 
-## Comparação AMI e Snapshot
+## 🔎 Comparação AMI e Snapshot
 
 <img src="./images/comparacao-ami-snapshot.png" src="Comparação entre AMI e Snapshot" width="650px">
 
