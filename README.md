@@ -8,14 +8,14 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 
 ## 📋 Tópicos a serem compartilhados:
 
-- 🖥️[Definição de EC2](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#definição-de-ec2)
+- 🖥️[Definição de EC2](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#%EF%B8%8F-defini%C3%A7%C3%A3o-de-ec2)
 - 📝 [Tipos de instância](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-tipos-de-instância)
 - 💲 [Cálculo de custos](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-cálculo-de-custos)
   - AWS Pricing Calculator
   - Convention name
   - Opções de pagamento
 - 📊 [Otimização de recursos](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-otimização-de-recursos)
-- 📈 [Escalação de recursos](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#escalação-de-recursos)
+- 📈 [Escalação de recursos](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-escala%C3%A7%C3%A3o-de-recursos)
 - ☁️ [Armazenamento em nuvem](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#%EF%B8%8F-armazenamento-em-nuvem)
   - EBS
   - S3
@@ -24,7 +24,7 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
   - Lifecycle
 - 💿 [AMI](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-ami---amazon-machine-image)
 - 💾 [Snapshot EBS](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-snapshot-ebs)
-- 🔎 [Comparação AMI e Snapshot](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#comparação-ami-e-snapshot)
+- 🔎 [Comparação AMI e Snapshot](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-compara%C3%A7%C3%A3o-ami-e-snapshot)
 
 ---
 
