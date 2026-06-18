@@ -25,7 +25,7 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 - 💿 [AMI](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-ami---amazon-machine-image)
 - 💾 [Snapshot EBS](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-snapshot-ebs)
 - 🔎 [Comparação AMI e Snapshot](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-compara%C3%A7%C3%A3o-ami-e-snapshot)
-- 🖌 [Desenhos de arquitetura de software](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#desenho-de-arquitetura-de-software)
+- 🖌 [Desenhos de arquitetura de software](https://github.com/HeynanCharles/desafio-dio-repositorio-de-estudos-EC2/tree/main#-desenhos-de-arquitetura-de-software)
 
 ---
 
