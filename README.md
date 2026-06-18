@@ -14,7 +14,7 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
   - AWS Pricing Calculator
   - Convention name
   - Opções de pagamento
-- ![alt text](image.png) Otimização de recursos
+- 📊 Otimização de recursos
 - <img src="./escalação-recurso.png" width="50px" height="50px"> Escalação de recursos
 - ☁️ Armazenamento em nuvem
   - EBS
@@ -22,9 +22,9 @@ Irei compartilhar o que aprendi e entendi do conteúdo por meio de explicações
 - 📝 Tipos de classe de armazenamento
 - 🔄 Frequência de acesso
   - Lifecycle
-- ![alt text](image-1.png) AMI
-- ![alt text](image-2.png) Snapshot EBS
-- ![alt text](image-3.png) Comparação AMI e Snapshot
+- 💿 AMI
+- 💾 Snapshot EBS
+- 🔎 Comparação AMI e Snapshot
 
 ---
 
@@ -55,7 +55,7 @@ A EC2 é composta por:
 
 ---
 
-## Cálculo de custos
+## 💲 Cálculo de custos
 
 ### AWS Pricing Calculator
 
@@ -81,7 +81,7 @@ O Convention name é a descrição da máquina, como se fosse uma sigla, mas que
 
 ---
 
-## Otimização de recursos
+## 📊 Otimização de recursos
 
 Quando falamos de otimização de recurso, estamos nos referindo à custo, diminuição de custo ou otimização de uso, que também diminui custo, entre outras opções, irei citar algumas:
 
@@ -109,7 +109,7 @@ Basicamente, a **escalação vertical** é voltada para o aumento de processamen
 
 ---
 
-## Armazenamento em nuvem
+## ☁️ Armazenamento em nuvem
 
 ### EBS - Elastic Block Store
 
@@ -139,12 +139,12 @@ O S3 (Amazon Simple Storage Service) é um serviço de armazenamento voltado par
 
 ---
 
-## Tipos de classe de armazenamento
+## 📝 Tipos de classe de armazenamento
 <img src="./images/types of storage classes.png" alt="Tipos de classe de armazenamento" width="500px">
 
 ---
 
-## Frequência de acesso
+## 🔄 Frequência de acesso
 
 Junto à isso, temos uma linha que mostra a frequência de acesso das classes mostradas acima:
 
@@ -158,7 +158,7 @@ Existe também a regra do clico de vida, que é uma organização de gestão de 
 
 ---
 
-## AMI - Amazon Machine Image
+## 💿 AMI - Amazon Machine Image
 
  É uma forma de duplicar uma EC2, sem ser do zero, sendo basicamente um copia e cola. Em oposto à própria EC2, não tem que ser feito nenhum processo para trabalhar com a AMI, você consegue criar com as instâncias em execução ou paradas, o que facilita e agiliza o gerenciamento e criação delas. Mais alguns pontos sobre a AMI:
 
